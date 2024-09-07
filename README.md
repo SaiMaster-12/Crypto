@@ -1,1 +1,3 @@
 # Crypto
+
+The webpage is a user interface for a "Crypto" featuring a vertical navigation bar with icons for different sections like Home, Insights, Transactions, and Settings, along with a header displaying the app name. The interface is structured using **HTML** to define the layout, while **CSS** provides styling, including colors, fonts, and hover effects, enhancing the visual appearance with elements like gradients and positioning. **JavaScript** is used to add interactivity, such as handling navigation clicks, toggling menus, and dynamically managing content for a responsive and user-friendly experience.
